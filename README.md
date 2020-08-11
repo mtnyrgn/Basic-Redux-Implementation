@@ -24,6 +24,3 @@ You will also see any lint errors in the console.
 
 In this project we have 3 buttons as Increase Counter, Decrease Counter and Increase Counter by Two. When we click button, state counter will update due to buttons action. All of this process wil management by redux.
 
-
-
-test
